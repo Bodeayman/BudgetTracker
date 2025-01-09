@@ -1,0 +1,5 @@
+{
+    "iis.configDir": "",
+    "FSharp.suggestGitignore": false,
+    "cmake.ignoreCMakeListsMissing": true
+}
